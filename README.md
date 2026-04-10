@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sabir Mahmud Tazim</h1>
+<h1 align="center">Hi , I'm Sabir Mahmud Tazim</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 - 📫 How to reach me **sabirmahmud131@gmail.com**
