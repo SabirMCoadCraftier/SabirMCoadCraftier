@@ -1,9 +1,11 @@
 <!-- Header -->
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=7F77DD&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Sabir+Mahmud+Tazim+👋;Frontend+Developer;Pixel+Perfectionist;Open+Source+Enthusiast" alt="Typing SVG" />
+
 # Hi there, I'm Sabir Mahmud Tazim 👋
 
-###  Frontend Developer · Open Source Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Frontend+Developer;Building+pixel-perfect+UIs;React+%26+Next.js+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SabirMCoadCraftier&color=7F77DD&style=flat-square)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/sabirbcicians2022)
@@ -58,6 +60,7 @@ const sabir = {
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SabirMCoadCraftier&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabirMCoadCraftier&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
 <div align="center">
@@ -88,17 +91,11 @@ const sabir = {
 
 <div align="center">
 
-If you want to collaborate, chat about frontend, or just say hi — feel free to reach out!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Want+to+collaborate%3F+Let's+connect!;Always+open+to+new+opportunities+✨" alt="Typing SVG" />
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/sabirbcicians2022)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabir-mahmud-tazim/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmudcse24@gmail.com)
-
-</div>
-
----
-
-<div align="center">
 
 *"First, solve the problem. Then, write the code." — John Johnson*
 
