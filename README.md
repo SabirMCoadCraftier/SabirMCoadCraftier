@@ -18,13 +18,13 @@
 
 ```js
 const sabir = {
-  name:      "Sabir Mahmud Tazim",
-  location:  "Dhaka, Bangladesh 🇧🇩",
-  role:      "Frontend Developer",
-  currently: "Building pixel-perfect UIs with React + TypeScript",
-  learning:  ["Next.js 14", "Framer Motion", "Three.js"],
+  name:        "Sabir Mahmud Tazim",
+  location:    "Dhaka, Bangladesh 🇧🇩",
+  role:        "Frontend Developer",
+  currently:   "Building pixel-perfect UIs with React & Next.js",
+  learning:    ["Next.js 14", "Framer Motion", "Advanced CSS"],
   mainProject: "Digital Tool Market 🛒",
-  funFact:   "I debug with console.log() and I'm not ashamed 🙃"
+  funFact:     "I debug with console.log() and I'm not ashamed 🙃"
 };
 ```
 
@@ -36,16 +36,17 @@ const sabir = {
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![DOM](https://img.shields.io/badge/DOM_Manipulation-FF6B35?style=flat-square&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-**Styling & Tools**
+**Tools & Platforms**
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -67,11 +68,17 @@ const sabir = {
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 <div align="center">
 
-[![Digital Tool Market](https://github-readme-stats.vercel.app/api/pin/?username=SabirMCoadCraftier&repo=Digital-Tool-Market&theme=tokyonight&hide_border=true)](https://github.com/SabirMCoadCraftier/Digital-Tool-Market)
+| 🛒 Digital Tool Market | 🐛 Git Issues Tracker |
+|:---:|:---:|
+| [![Digital Tool Market](https://github-readme-stats.vercel.app/api/pin/?username=SabirMCoadCraftier&repo=Digital-Tool-Market&theme=tokyonight&hide_border=true)](https://github.com/SabirMCoadCraftier/Digital-Tool-Market) | [![Git Issues Tracker](https://github-readme-stats.vercel.app/api/pin/?username=SabirMCoadCraftier&repo=git-issues-tracker&theme=tokyonight&hide_border=true)](https://github.com/SabirMCoadCraftier/git-issues-tracker) |
+
+| 💼 Job Application Tracker | 📝 Assignment 02 |
+|:---:|:---:|
+| [![Job Application Tracker](https://github-readme-stats.vercel.app/api/pin/?username=SabirMCoadCraftier&repo=Job-Application-Tracker&theme=tokyonight&hide_border=true)](https://github.com/SabirMCoadCraftier/Job-Application-Tracker) | [![Assignment 02](https://github-readme-stats.vercel.app/api/pin/?username=SabirMCoadCraftier&repo=Assignment-02&theme=tokyonight&hide_border=true)](https://github.com/SabirMCoadCraftier/Assignment-02) |
 
 </div>
 
