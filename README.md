@@ -3,7 +3,7 @@
 
 # Hi there, I'm Sabir Mahmud Tazim 👋
 
-### // Frontend Developer · Pixel Perfectionist · Open Source Enthusiast
+###  Frontend Developer · Open Source Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SabirMCoadCraftier&color=7F77DD&style=flat-square)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/sabirbcicians2022)
