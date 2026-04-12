@@ -1,4 +1,11 @@
 <h1 align="center">Hi , I'm Sabir Mahmud Tazim</h1>
+
+
+<h3 align="center">Welcome to my GitHub Profile 🚀</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+am+a+CSE+Student;I+love+Coding+💻;Java+%7C+Python+%7C+Web+Dev">
+</p>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 - 📫 How to reach me **sabirmahmud131@gmail.com**
