@@ -100,6 +100,6 @@ If you want to collaborate, chat about frontend, or just say hi — feel free to
 
 <div align="center">
 
-*// made with ❤️ in Dhaka · always learning · always building*
+*"First, solve the problem. Then, write the code." — John Johnson*
 
 </div>
