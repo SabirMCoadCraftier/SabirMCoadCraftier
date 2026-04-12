@@ -1,8 +1,6 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=7F77DD&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Sabir+Mahmud+Tazim+👋;Frontend+Developer;Pixel+Perfectionist;Open+Source+Enthusiast" alt="Typing SVG" />
-
 # Hi there, I'm Sabir Mahmud Tazim 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Frontend+Developer;Building+pixel-perfect+UIs;React+%26+Next.js+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
@@ -56,10 +54,6 @@ const sabir = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SabirMCoadCraftier&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabirMCoadCraftier&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
